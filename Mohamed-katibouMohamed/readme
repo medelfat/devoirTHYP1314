@@ -1,0 +1,3 @@
+Base de donnée :
+ - Pour exectuer l'application, il faut créer une base de donnée appelé etunote.
+ - Executer le script sql pour inserer les tables dans la base.
